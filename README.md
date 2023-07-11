@@ -23,8 +23,6 @@
 <br />
 <h3 align="center">We will keep you [updated on the project's progress] (https://github.com/quran-web3). Thank you, and may Allah bless you and your loved ones with happiness, success, and eternal rewards.</h3>
 <br />
-<br />
-<br />
 <div align="center" dir="auto">
 <img src="https://github.com/quran-web3/quran-web3/assets/136342539/ae998b74-5454-4607-aaa9-e175f2a17cb4" />
 </div> 
