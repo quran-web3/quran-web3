@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/YasinDehfuli/YasinDehfuli/main/WORM.svg" />
+<div class="border-wrap img-view " data-image="https://raw.githubusercontent.com/YasinDehfuli/YasinDehfuli/e345d6ae615bed2aa64913c0a9d9bdbdcf00cacf/WORM.svg" data-encode="false"></div>
 <!--
 **quran-web3/quran-web3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
