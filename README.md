@@ -9,13 +9,13 @@
 </div>
 <br />
 <h3 align="center">Quran Web3</h3>
-<h4 align="center">[Quran-Web3.NFT] (https://ud.me/quran-web3.nft)</h4>
-<h4 align="center">[Quran-Web3.Crypto] (https://dweb.link/ipns/quran-web3.crypto/)</h4>
-<h4 align="center"><a href="https://bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m.ipfs.dweb.link/">IPFS.io</a></h4>
+<h4 align="center">[Quran-Web3.NFT] (<a href="https://ud.me/quran-web3.nft" rel="nofollow" target="_blank">https://ud.me/quran-web3.nft</a>)</h4>
+<h4 align="center">[Quran-Web3.Crypto] (<a href="https://dweb.link/ipns/quran-web3.crypto/" rel="nofollow" target="_blank">https://dweb.link/ipns/quran-web3.crypto/</a>)</h4>
+<h4 align="center"><a href="https://bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m.ipfs.dweb.link/" rel="nofollow" target="_blank">IPFS.io</a></h4>
 <br />
 <h3 align="center">Quran NFT</h3>
-<h4 align="center">[Polygon Mainnet Contract] (https://polygonscan.com/token/0x74814b153519f3d77d5521cd185dd3071b6a017a)</h4>
-<h4 align="center">[Polygon Testnet Contract] (https://mumbai.polygonscan.com/token/0x7270a3f45ad4ad76a4f3865451b3f217642faf88)</h4>
+<h4 align="center">[Polygon Mainnet Contract] (<a href="https://polygonscan.com/token/0x74814b153519f3d77d5521cd185dd3071b6a017a" rel="nofollow" target="_blank">https://polygonscan.com/token/0x74814b153519f3d77d5521cd185dd3071b6a017a</a>)</h4>
+<h4 align="center">[Polygon Testnet Contract] (<a href="https://mumbai.polygonscan.com/token/0x7270a3f45ad4ad76a4f3865451b3f217642faf88" rel="nofollow" target="_blank">https://mumbai.polygonscan.com/token/0x7270a3f45ad4ad76a4f3865451b3f217642faf88</a>)</h4>
 <br />
 <h3 align="center">We will keep you updated on the project's progress here. Thank you, and may Allah bless you and your loved ones with happiness, success, and eternal rewards.</h3>
 <br />
