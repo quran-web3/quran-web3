@@ -11,7 +11,7 @@
 <h3 align="center">Quran Web3</h3>
 <h4 align="center">[Quran-Web3.NFT] (<a href="https://ud.me/quran-web3.nft" rel="nofollow">https://ud.me/quran-web3.nft</a>)</h4>
 <h4 align="center">[Quran-Web3.Crypto] (<a href="https://dweb.link/ipns/quran-web3.crypto/" rel="nofollow">https://dweb.link/ipns/quran-web3.crypto/</a>)</h4>
-<h4 align="center"><a href="https://bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m.ipfs.dweb.link/" rel="nofollow">IPFS.io</a></h4>
+<h4 align="center"><a href="https://bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m.ipfs.dweb.link/" rel="nofollow">quran-web3.nft</a></h4>
 <br />
 <h3 align="center">Quran NFT</h3>
 <h4 align="center">[Polygon Mainnet Contract] (<a href="https://polygonscan.com/token/0x74814b153519f3d77d5521cd185dd3071b6a017a" rel="nofollow">https://polygonscan.com/token/0x74814b153519f3d77d5521cd185dd3071b6a017a</a>)</h4>
