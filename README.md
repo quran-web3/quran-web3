@@ -8,6 +8,9 @@
 <img src="https://github.com/quran-web3/quran-web3/assets/136342539/d2bda0ec-9e95-4188-aa61-c1c3262e2aa1" />
 </div>
 <br />
+<h3 align="center">Quran Web2 (Preview)</h3>
+<h4 align="center">[Github Page] (<a href="https://quran-web3.github.io/quran-web3.nft/" rel="nofollow">https://quran-web3.github.io/quran-web3.nft/</a>)</h4>
+<br />
 <h3 align="center">Quran Web3</h3>
 <h4 align="center">[Quran-Web3.NFT] (<a href="https://ud.me/quran-web3.nft" rel="nofollow">https://ud.me/quran-web3.nft</a>)</h4>
 <h4 align="center">[Quran-Web3.Crypto] (<a href="https://dweb.link/ipns/quran-web3.crypto/" rel="nofollow">https://dweb.link/ipns/quran-web3.crypto/</a>)</h4>
