@@ -7,21 +7,34 @@
 <div align="center" dir="auto">
 <img src="https://github.com/quran-web3/quran-web3/assets/136342539/d2bda0ec-9e95-4188-aa61-c1c3262e2aa1" />
 </div>
-<br />
-<h3 align="center">Quran Web2 (Preview)</h3>
-<h4 align="center">[Github Page] (<a href="https://quran-web3.github.io/quran-web3.nft/" rel="nofollow">https://quran-web3.github.io/quran-web3.nft/</a>)</h4>
-<br />
-<h3 align="center">Quran Web3</h3>
-<h4 align="center">[Quran-Web3.NFT] (<a href="https://ud.me/quran-web3.nft" rel="nofollow">https://ud.me/quran-web3.nft</a>)</h4>
-<h4 align="center">[Quran-Web3.Crypto] (<a href="https://dweb.link/ipns/quran-web3.crypto/" rel="nofollow">https://dweb.link/ipns/quran-web3.crypto/</a>)</h4>
-<h4 align="center"><a href="https://bafybeihnern7lcpr6mbpupmfwjaokdje3ryouwecujviv342z7n4m6ama4.ipfs.dweb.link/" rel="nofollow">quran-web3.nft</a></h4>
-<br />
-<h3 align="center">Quran NFT</h3>
-<h4 align="center">[Polygon Mainnet Contract] (<a href="https://polygonscan.com/token/0x74814b153519f3d77d5521cd185dd3071b6a017a" rel="nofollow">https://polygonscan.com/token/0x74814b153519f3d77d5521cd185dd3071b6a017a</a>)</h4>
-<h4 align="center">[Polygon Testnet Contract] (<a href="https://mumbai.polygonscan.com/token/0x7270a3f45ad4ad76a4f3865451b3f217642faf88" rel="nofollow">https://mumbai.polygonscan.com/token/0x7270a3f45ad4ad76a4f3865451b3f217642faf88</a>)</h4>
-<br />
-<h3 align="center">We will keep you updated on the project's progress here. Thank you, and may Allah bless you and your loved ones with happiness, success, and eternal rewards.</h3>
+
+## Getting started
+*  Use this IPFS CID to attach to your web3 Domain: <b>bafybeihnern7lcpr6mbpupmfwjaokdje3ryouwecujviv342z7n4m6ama4</b>
+
+## Update History
+1.  Quran-Web3.NFT First Release (05-07-2023):
+    *  CID             : bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
+    *  IPFS URL        : ipfs://bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
+    *  Gateway URL     : https://dweb.link/ipfs/bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m
+
+2.  Quran-Web3.NFT Minor Update on the Donation page (17-07-2023):
+    *  CID             : bafybeihnern7lcpr6mbpupmfwjaokdje3ryouwecujviv342z7n4m6ama4
+    *  IPFS URL        : ipfs://bafybeihnern7lcpr6mbpupmfwjaokdje3ryouwecujviv342z7n4m6ama4
+    *  Gateway URL     : https://dweb.link/ipfs/bafybeihnern7lcpr6mbpupmfwjaokdje3ryouwecujviv342z7n4m6ama4
+
+## Web2 Preview
+*  Website Preview (Web2) Github Page: <a href="https://quran-web3.github.io/quran-web3.nft/">https://quran-web3.github.io/quran-web3.nft/</a>
+
+## Web3 Decentralized Website
+*  Web3 Domain: <b><u>quran-web3.nft</u> / <u>quran-web3.crypto</u></b> Type in any browser that supports web3 domain like <b>Brave or Opera</b>.
+*  DWEB IPNS Link: <a href="https://dweb.link/ipns/quran-web3.crypto"> quran-web3.crypto </a>
+*  IPFS CID: <a href="https://bafybeihnern7lcpr6mbpupmfwjaokdje3ryouwecujviv342z7n4m6ama4.ipfs.dweb.link/">bafybeietysyq2gokj3wupn2pgkn6tvotqh4fvqotxgcrm2r7wpdcugsv4m</a>
+
+## Get Your Web3 Domain
+*  It's your name. Own it. Own your identity in the digital world. <a href="https://unstoppabledomains.com/?ref=0292cd8075b549e" target="_blank">Get started with a Web3 domain.</a>
 <br />
 <div align="center" dir="auto">
 <img src="https://github.com/quran-web3/quran-web3/assets/136342539/ae998b74-5454-4607-aaa9-e175f2a17cb4" />
 </div> 
+<br />
+<h3 align="center">We will keep you updated on the project's progress here. Thank you, and may Allah bless you and your loved ones with happiness, success, and eternal rewards.</h3>
