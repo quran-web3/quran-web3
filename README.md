@@ -8,6 +8,10 @@
 <img src="https://github.com/quran-web3/quran-web3/assets/136342539/d2bda0ec-9e95-4188-aa61-c1c3262e2aa1" />
 </div>
 
+## Project Progress
+*  Upload IPFS English Translation & Quran Transliteration status = In Progress
+*  <a href="https://github.com/quran-web3/quran-web3.nft/projects">More Progress Info</a>
+
 ## Getting started
 *  Use this IPFS CID to attach to your web3 Domain: <b>bafybeihnern7lcpr6mbpupmfwjaokdje3ryouwecujviv342z7n4m6ama4</b>
 
