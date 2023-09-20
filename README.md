@@ -9,7 +9,7 @@
 </div>
 
 ## Project Progress
-*  Upload IPFS English Translation & Quran Transliteration status = In Progress
+*  Footnotes styling on English translation
 *  <a href="https://github.com/quran-web3/quran-web3.nft/projects">More Progress Info</a>
 
 ## Getting started
