@@ -38,7 +38,7 @@
     Quran Transliteration, English Translation by Saheeh International, 99 Names of Allah (new style), Dhikr, Using new fonts: King Fahd Glorious Quran Printing Complex HAFS Uthmanic.
     *  CID             : bafybeib4pohwxioyiibdznjpclzywqbnchbiywlr4ur3yo4zn5avipwqiy
     *  IPFS URL        : ipfs://bafybeib4pohwxioyiibdznjpclzywqbnchbiywlr4ur3yo4zn5avipwqiy
-    *  Gateway URL     : https://dweb.link/ipfs/bafybeihnern7lcpr6mbpupmfwjaokdje3ryouwecujviv342z7n4m6ama4
+    *  Gateway URL     : https://dweb.link/ipfs/bafybeib4pohwxioyiibdznjpclzywqbnchbiywlr4ur3yo4zn5avipwqiy
        
 4.  <a href="https://github.com/quran-web3/quran-web3.nft/releases">More update info >>>>>>>></a>
 
