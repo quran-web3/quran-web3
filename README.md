@@ -9,11 +9,11 @@
 </div>
 
 ## Project Progress
-*  Footnotes styling on English translation
+*  Surah info
 *  <a href="https://github.com/quran-web3/quran-web3.nft/projects">More Progress Info</a>
 
 ## Getting started
-*  Use this IPFS CID to attach to your web3 Domain: <b>bafybeib4pohwxioyiibdznjpclzywqbnchbiywlr4ur3yo4zn5avipwqiy</b>
+*  Use this IPFS CID to attach to your web3 Domain: <b>bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4</b>
 
 ## Web2 Preview
 *  Website Preview (Web2) Github Page: <a href="https://quran-web3.github.io/quran-web3.nft/">https://quran-web3.github.io/quran-web3.nft/</a>
@@ -21,7 +21,7 @@
 ## Web3 Decentralized Website
 *  Web3 Domain: <b><u>quran-web3.nft</u> / <u>quran-web3.crypto</u></b> Type in any browser that supports web3 domain like <b>Brave or Opera</b>.
 *  DWEB IPNS Link: <a href="https://dweb.link/ipns/quran-web3.crypto"> quran-web3.crypto </a>
-*  IPFS CID: <a href="https://bafybeib4pohwxioyiibdznjpclzywqbnchbiywlr4ur3yo4zn5avipwqiy.ipfs.dweb.link/">bafybeib4pohwxioyiibdznjpclzywqbnchbiywlr4ur3yo4zn5avipwqiy</a>
+*  IPFS CID: <a href="https://bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4.ipfs.dweb.link/">bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4</a>
 
 ## Update History
 1.  Quran-Web3.NFT First Release (05-07-2023):
@@ -39,8 +39,13 @@
     *  CID             : bafybeib4pohwxioyiibdznjpclzywqbnchbiywlr4ur3yo4zn5avipwqiy
     *  IPFS URL        : ipfs://bafybeib4pohwxioyiibdznjpclzywqbnchbiywlr4ur3yo4zn5avipwqiy
     *  Gateway URL     : https://dweb.link/ipfs/bafybeib4pohwxioyiibdznjpclzywqbnchbiywlr4ur3yo4zn5avipwqiy
-       
-4.  <a href="https://github.com/quran-web3/quran-web3.nft/releases">More update info >>>>>>>></a>
+
+4.  Quran-Web3.NFT Update on Footnote Styling (19-10-2023):
+    *  CID             : bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4
+    *  IPFS URL        : ipfs://bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4
+    *  Gateway URL     : https://dweb.link/ipfs/bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4
+
+5.  <a href="https://github.com/quran-web3/quran-web3.nft/releases">More update info >>>>>>>></a>
 
 ## Get Your Web3 Domain
 *  It's your name. Own it. Own your identity in the digital world. <a href="https://unstoppabledomains.com/?ref=0292cd8075b549e" target="_blank">Get started with a Web3 domain.</a>
