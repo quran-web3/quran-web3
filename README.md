@@ -43,10 +43,7 @@
     *  Gateway URL     : https://dweb.link/ipfs/bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4
 
 5. Quran-Web3.NFT Update release on (02-01-2024):
-    1. Remove autoplay function for audio
-    2. Add surah informations
-    3. New styling on index pages
-
+    Remove autoplay function for audio, Add surah informations, New styling on index pages.
     *  CID             : bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq
     *  IPFS URL        : ipfs://bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq
     *  Gateway URL     : https://ipfs.io/ipfs/bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq
