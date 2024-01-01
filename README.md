@@ -18,7 +18,7 @@
 ## Web3 Decentralized Website
 *  Web3 Domain: <b><u>quran-web3.nft</u> / <u>quran-web3.crypto</u></b> Type in any browser that supports web3 domain like <b>Brave or Opera</b>.
 *  DWEB IPNS Link: <a href="https://dweb.link/ipns/quran-web3.crypto"> quran-web3.crypto </a>
-*  IPFS CID: <a href="https://bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4.ipfs.dweb.link/">bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4</a>
+*  IPFS CID: <a href="https://bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq.ipfs.dweb.link/">bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq</a>
 
 ## Update History
 1.  Quran-Web3.NFT First Release (05-07-2023):
