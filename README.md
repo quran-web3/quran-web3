@@ -13,7 +13,7 @@
 *  <a href="https://github.com/quran-web3/quran-web3.nft/projects">More Progress Info</a>
 
 ## Getting started
-*  Use this IPFS CID to attach to your web3 Domain: <b>bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4</b>
+*  Use this IPFS CID to attach to your web3 Domain: <b>bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq</b>
 
 ## Web3 Decentralized Website
 *  Web3 Domain: <b><u>quran-web3.nft</u> / <u>quran-web3.crypto</u></b> Type in any browser that supports web3 domain like <b>Brave or Opera</b>.
