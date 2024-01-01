@@ -9,7 +9,7 @@
 </div>
 
 ## Project Progress
-*  Surah info
+*  The 99 Names of Allah Descriptions
 *  <a href="https://github.com/quran-web3/quran-web3.nft/projects">More Progress Info</a>
 
 ## Getting started
@@ -42,7 +42,16 @@
     *  IPFS URL        : ipfs://bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4
     *  Gateway URL     : https://dweb.link/ipfs/bafybeif3arvqazvarndos4xrv35hyo3jpo6fczb2nhwlnnfitld56rooc4
 
-5.  <a href="https://github.com/quran-web3/quran-web3.nft/releases">More update info >>>>>>>></a>
+5. Quran-Web3.NFT Update release on (02-01-2024):
+    1. Remove autoplay function for audio
+    2. Add surah informations
+    3. New styling on index pages
+
+    *  CID             : bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq
+    *  IPFS URL        : ipfs://bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq
+    *  Gateway URL     : https://ipfs.io/ipfs/bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq
+
+6.  <a href="https://github.com/quran-web3/quran-web3.nft/releases">More update info >>>>>>>></a>
 
 ## Get Your Web3 Domain
 *  It's your name. Own it. Own your identity in the digital world. <a href="https://unstoppabledomains.com/?ref=0292cd8075b549e" target="_blank">Get started with a Web3 domain.</a>
