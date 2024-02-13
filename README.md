@@ -17,7 +17,7 @@
 
 ## Web3 Decentralized Website
 *  Web3 Domain: <b><u>quran-web3.nft</u> / <u>quran-web3.crypto</u></b> Type in any browser that supports web3 domain like <b>Brave or Opera</b>.
-*  IPFS CID: <a href="https://cloudflare-ipfs.com/ipfs/bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq/)">bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq</a>
+*  IPFS CID: <a href="https://cloudflare-ipfs.com/ipfs/bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq/">bafybeihbxzwiz5fx4fd7uqljya26sicsea4veaszoojemcxonwravknbxq</a>
 
 ## Update History
 <###>
