@@ -1,3 +1,4 @@
+![banner](https://github.com/quran-web3/quran-web3/assets/136342539/33e706b4-366e-4ec4-8c02-34b531ffc850)
 <h1 align="center">The Noble Quran in Decentralized Web & NFT | quran-web3.nft</h1>
 <h2 align="center">The Noble Quran in Decentralized Web & NFT | quran-web3.nft - Quran Web3 NFT Blockchain Decentralized Knowledge-sharing Quranic studies Smart contract Authentic</h2>
 <br />
