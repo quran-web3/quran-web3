@@ -10,7 +10,7 @@
 </div>
 
 ## Project Progress
-*  The 99 Names of Allah Descriptions
+*  quran-web3.nft v2 is in progress. Added verse bookmark features, recitation for each verse and translation into 10 languages ​​(English, Chinese, Hindi, Spanish, French, Bengali, Portuguese, Russian, German and Japanese.)
 *  <a href="https://github.com/quran-web3/quran-web3.nft/projects">More Progress Info</a>
 
 ## Getting started
