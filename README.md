@@ -44,8 +44,4 @@
 ## Get Your Web3 Domain
 *  It's your name. Own it. Own your identity in the digital world. <a href="https://unstoppabledomains.com/?ref=0292cd8075b549e" target="_blank">Get started with a Web3 domain.</a>
 <br />
-<div align="center" dir="auto">
-<img src="https://github.com/quran-web3/quran-web3/assets/136342539/ae998b74-5454-4607-aaa9-e175f2a17cb4" />
-</div> 
-<br />
 <h3 align="center">We will keep you updated on the project's progress here. Thank you, and may Allah bless you and your loved ones with happiness, success, and eternal rewards.</h3>
