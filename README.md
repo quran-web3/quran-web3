@@ -11,6 +11,33 @@ The **Quran Web3 Project** merges the teachings of the Quran with the potential 
 
 ---
 
+## 📜 Whitepaper Summary: The Quran Web3 Project
+
+The Quran Web3 Project represents a groundbreaking fusion of spiritual wisdom and cutting-edge Web3 technology. Below is a high-level summary of our vision, challenges, and technological solutions:
+
+### Mission & Vision
+*   The project seeks to revolutionize how individuals access and engage with the Quran by introducing decentralization, transparency, and user-centric design.
+*   It provides an inclusive, secure, and transparent platform that bridges the gap between tradition and innovation.
+*   The platform empowers scholars, researchers, and enthusiasts to unite in exploring the depths of Quranic knowledge while supporting charitable causes through digital art.
+
+### Overcoming Traditional Challenges
+*   Traditional methods of studying the Quran face challenges such as the static nature of printed materials, centralized control, and geographical or language barriers.
+*   Centralized digital platforms often restrict accessibility and create uncertainties regarding the authenticity of interpretations.
+*   By leveraging Web3, the project ensures global accessibility that transcends borders and languages, while resisting censorship.
+
+### Technology & Preservation
+*   **Blockchain & Smart Contracts:** Utilizing the secure and robust Polygon blockchain, the platform automates processes ensuring fair rewards, transparent interactions, and trustless efficiency.
+*   **Decentralized Storage:** Quranic materials are distributed across a network of nodes, ensuring redundancy, data durability, and minimizing the risk of loss.
+*   **Data Security:** State-of-the-art encryption guarantees that user data and sacred resources are protected from unauthorized access.
+*   **Immutable Records:** The blockchain provides a tamper-proof record, ensuring the provenance and authenticity of translations and commentaries.
+
+### NFT Integration
+*   The project introduces Quranic Art NFTs, representing limited-edition digital artworks inspired by Quranic calligraphy and verses.
+*   These digital collectibles showcase the artistic beauty of the Quran while allowing individuals to support charitable causes aligned with Quranic values.
+*   Blockchain technology provides immutable ownership records and verified authenticity for each unique piece.
+
+---
+
 ## 🌟 Core Pillars
 
 | Pillar | Description |
@@ -21,29 +48,11 @@ The **Quran Web3 Project** merges the teachings of the Quran with the potential 
 
 ---
 
-## 🌐 The Role of Web3 Technology
-*Ushering in a new era of decentralized Quranic studies.*
-
-Web3 technology offers a solution to modern challenges by creating a decentralized, transparent, and collaborative system. Our goal is to leverage the power of blockchain and smart contracts to provide a platform that empowers users worldwide.
-
----
-
 ## 🚀 Explore The Platform
 
 * 🌐 **Web3 IPFS Quran with NFT Domain (`Quran-Web3.NFT`):** Decentralized frontend hosted permanently across peer-to-peer nodes.
 * 📄 **605 Pages Quran NFTs:** Page-by-page digital preservation anchored on the blockchain.
 * 📜 **Complete Quran in Single NFT:** The entire sacred text encapsulated within a single, immutable smart contract.
-
----
-
-## ⚡ Blockchain & Technical Infrastructure
-
-* 🟣 **Polygon Blockchain:** Leveraging the Polygon network, known for its security, low energy consumption, and robust smart contract capabilities.
-* 📜 **Smart Contracts:** Self-executing contracts automate processes, ensuring fair rewards and efficient interactions.
-* 🔐 **Data Encryption:** State-of-the-art encryption protects user data and interactions from unauthorized access.
-* 📦 **Decentralized Storage:** Minimizes the risk of loss by ensuring materials are distributed via IPFS rather than stored in a single centralized location.
-* 🛡️ **Immutable Records:** Blockchain provides an immutable and tamper-proof record of all Quranic resources.
-* ⏳ **Long-Term Preservation:** Data durability and version control ensure sacred resources remain preserved and accessible for future generations.
 
 ---
 
@@ -87,7 +96,7 @@ For native Web3 domain resolution (`.nft`) and decentralized IPFS routing, we re
 ### 🗓️ 3. "Quran in a Year" Reading Program
 * **365-Day Completion Plan:** 604 pages systematically divided (1–2 pages/day) using a custom Python script powered by the Quran.com API.
 * **Daily Target Card:** Live widget displaying current day, Hijri date, target pages, and exact starting/ending verses.
-* **Completion & Reset System:** Celebratory screen on Day 365 with optional reset confirmation powered by SweetAlert2.
+* **Completion & Reset System:** Celebratory screen on Day 365 with optional reset confirmation.
 
 ---
 
@@ -100,18 +109,10 @@ For native Web3 domain resolution (`.nft`) and decentralized IPFS routing, we re
 
 ### 🌍 5. Multi-Language Translations (12 Languages)
 Supports authentic translations sourced from *Tanzil.net* and *QuranEnc.com*:
-* 🇬🇧 **English:** Rowwad, Hilali & Khan, Saheeh International
-* 🇮🇩 **Indonesian:** Kemenag RI, Sabeq, The Complex
-* 🇨🇳 **Chinese:** Ma Jian, Makin, Suliman
-* 🇪🇸 **Spanish:** Garcia, Montada EU, Montada Latin
-* 🇫🇷 **French:** Hamidullah, Montada, Rachid Maach
-* 🇵🇹 **Portuguese:** Helmi Nasr, El-Hayek
-* 🇩🇪 **German:** Bubenheim & Elyas, Rowwad
-* 🇯🇵 **Japanese:** Ryoichi Mita, Saeed Sato
-* 🇮🇳 **Hindi:** Farooq Khan & Nadwi, Omari
-* 🇧🇩 **Bengali:** Zohurul Hoque
-* 🇷🇺 **Russian:** Abu Adel
-* 🇰🇷 **Korean:** Korean Standard
+* 🇬🇧 **English** | 🇮🇩 **Indonesian** | 🇨🇳 **Chinese**
+* 🇪🇸 **Spanish** | 🇫🇷 **French** | 🇵🇹 **Portuguese**
+* 🇩🇪 **German** | 🇯🇵 **Japanese** | 🇮🇳 **Hindi**
+* 🇧🇩 **Bengali** | 🇷🇺 **Russian** | 🇰🇷 **Korean**
 
 ---
 
@@ -148,12 +149,10 @@ Verse-by-verse audio powered by *EveryAyah.com*:
 | Component | Technology / Source |
 | :--- | :--- |
 | **Frontend** | HTML5, Vanilla JavaScript (ES6+), W3.CSS |
-| **Alerts & Modals** | SweetAlert2 |
 | **Blockchain Network** | Polygon |
 | **Hosting & Protocol** | Web3 Static / IPFS |
 | **Arabic Text Source** | Quran.com (Uthmanic) / Quran.nu.or.id (Tajweed) |
 | **Word-by-Word Engine**| Quranwbw.com |
 | **Audio Source** | EveryAyah.com |
-| **Schedule Script** | Custom Python Script |
 
 ---
