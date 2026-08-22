@@ -7,7 +7,6 @@ The **Quran Web3 Project** merges the teachings of the Quran with the potential 
 [![Platform: Polygon](https://img.shields.io/badge/Blockchain-Polygon-8247E5?style=flat&logo=polygon&logoColor=white)](#-blockchain--technical-infrastructure)
 [![Storage: IPFS](https://img.shields.io/badge/Storage-IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)](https://ipfs.tech/)
 [![Browser: Brave / Opera](https://img.shields.io/badge/Recommended_Browser-Brave_%7C_Opera-FF1B2D?style=flat)](#-recommended-browsers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
@@ -102,16 +101,16 @@ For native Web3 domain resolution (`.nft`) and decentralized IPFS routing, we re
 
 ### 🔤 4. 3 Quranic Text Display Modes
 1. **Standard (Uthmanic Hafs):** Clean physical Mushaf text (*Quran.com*).
-2. **Tajweed (Indopak Naskh):** Color-coded rules with interactive tooltips (*Quran.nu.or.id*).
-3. **Word-by-Word (WBW):** Individual word breakdown with translations in 4 languages (*Quranwbw.com*).
+2. **Tajweed (Indopak Naskh):** Color-coded rules with interactive tooltips (*Quran.com*).
+3. **Word-by-Word (WBW):** Individual word breakdown with translations in 4 languages (*Quranwbw.com*) via (*Quran.com*).
 
 ---
 
 ### 🌍 5. Multi-Language Translations (12 Languages)
-Supports authentic translations sourced from *Tanzil.net* and *QuranEnc.com*:
-* 🇬🇧 **English** | 🇮🇩 **Indonesian** | 🇨🇳 **Chinese**
+Supports authentic translations sourced from *Quran.com API* :
+* 🇬🇧 **English** | 🇨🇳 **Chinese** | 🇮🇳 **Hindi**
 * 🇪🇸 **Spanish** | 🇫🇷 **French** | 🇵🇹 **Portuguese**
-* 🇩🇪 **German** | 🇯🇵 **Japanese** | 🇮🇳 **Hindi**
+* 🇩🇪 **German** | 🇯🇵 **Japanese** | 🇮🇩 **Indonesian** 
 * 🇧🇩 **Bengali** | 🇷🇺 **Russian** | 🇰🇷 **Korean**
 
 ---
@@ -151,8 +150,8 @@ Verse-by-verse audio powered by *EveryAyah.com*:
 | **Frontend** | HTML5, Vanilla JavaScript (ES6+), W3.CSS |
 | **Blockchain Network** | Polygon |
 | **Hosting & Protocol** | Web3 Static / IPFS |
-| **Arabic Text Source** | Quran.com (Uthmanic) / Quran.nu.or.id (Tajweed) |
-| **Word-by-Word Engine**| Quranwbw.com |
+| **Arabic Text Source** | Quran.com API |
+| **Word-by-Word Engine**| Quranwbw.com via Quran.com API |
 | **Audio Source** | EveryAyah.com |
 
 ---
