@@ -25,15 +25,9 @@ The Quran Web3 Project represents a groundbreaking fusion of spiritual wisdom an
 *   By leveraging Web3, the project ensures global accessibility that transcends borders and languages, while resisting censorship.
 
 ### Technology & Preservation
-*   **Blockchain & Smart Contracts:** Utilizing the secure and robust Polygon blockchain, the platform automates processes ensuring fair rewards, transparent interactions, and trustless efficiency.
 *   **Decentralized Storage:** Quranic materials are distributed across a network of nodes, ensuring redundancy, data durability, and minimizing the risk of loss.
 *   **Data Security:** State-of-the-art encryption guarantees that user data and sacred resources are protected from unauthorized access.
 *   **Immutable Records:** The blockchain provides a tamper-proof record, ensuring the provenance and authenticity of translations and commentaries.
-
-### NFT Integration
-*   The project introduces Quranic Art NFTs, representing limited-edition digital artworks inspired by Quranic calligraphy and verses.
-*   These digital collectibles showcase the artistic beauty of the Quran while allowing individuals to support charitable causes aligned with Quranic values.
-*   Blockchain technology provides immutable ownership records and verified authenticity for each unique piece.
 
 ---
 
