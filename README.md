@@ -17,17 +17,12 @@ The Quran Web3 Project represents a groundbreaking fusion of spiritual wisdom an
 ### Mission & Vision
 *   The project seeks to revolutionize how individuals access and engage with the Quran by introducing decentralization, transparency, and user-centric design.
 *   It provides an inclusive, secure, and transparent platform that bridges the gap between tradition and innovation.
-*   The platform empowers scholars, researchers, and enthusiasts to unite in exploring the depths of Quranic knowledge while supporting charitable causes through digital art.
-
-### Overcoming Traditional Challenges
-*   Traditional methods of studying the Quran face challenges such as the static nature of printed materials, centralized control, and geographical or language barriers.
-*   Centralized digital platforms often restrict accessibility and create uncertainties regarding the authenticity of interpretations.
-*   By leveraging Web3, the project ensures global accessibility that transcends borders and languages, while resisting censorship.
+*   The platform empowers scholars, researchers, and enthusiasts to unite in exploring the depths of Quranic knowledge.
 
 ### Technology & Preservation
 *   **Decentralized Storage:** Quranic materials are distributed across a network of nodes, ensuring redundancy, data durability, and minimizing the risk of loss.
 *   **Data Security:** State-of-the-art encryption guarantees that user data and sacred resources are protected from unauthorized access.
-*   **Immutable Records:** The blockchain provides a tamper-proof record, ensuring the provenance and authenticity of translations and commentaries.
+*   **Immutable Records:** The IPFS provides a tamper-proof record, ensuring the provenance and authenticity of translations and commentaries.
 
 ---
 
