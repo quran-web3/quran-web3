@@ -126,7 +126,7 @@ Verse-by-verse audio powered by *EveryAyah.com*:
 * **No Account Required:** Client-side architecture with zero tracking or central databases.
 * **Local Storage Persistence:** All progress, notes, and preferences remain local.
 * **Data Portability:**
-  * 📥 **Export All Data (Backup):** Download your entire state as a `.json` file.
+  * 📥 **Export Data (Backup):** Download your entire state as a `.json` file.
   * 📤 **Import Data (Restore):** Seamlessly restore your reading state on any new device.
 
 ---
