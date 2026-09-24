@@ -1,6 +1,6 @@
 # 📖 Quran Web3 (Quran-Web3.NFT)
 
-The **Quran Web3 Project** merges the teachings of the Quran with the potential of blockchain technology. It creates a decentralized platform where users can securely access Quranic translations, interpretations, and scholarly insights.
+The **Quran Web3 Project** represents a groundbreaking fusion of spiritual wisdom and cutting-edge technology. It seeks to revolutionize how individuals access and engage with the Quran by harnessing the power of the decentralized web (Web3) and IPFS. With a core mission to enhance transparency, accessibility, and collaboration within the Quranic community, this project is dedicated to preserving and disseminating the divine teachings to a global audience in a serverless ecosystem.
 
 ---
 
@@ -30,17 +30,16 @@ The Quran Web3 Project represents a groundbreaking fusion of spiritual wisdom an
 
 | Pillar | Description |
 | :--- | :--- |
-| 🔍 **Transparency** | Immutable records on the blockchain verify the provenance and authenticity of Quranic resources. |
-| 🌐 **Global Accessibility** | Transcends geographical boundaries and language barriers to promote deeper understanding worldwide. |
-| 🛡️ **Decentralization** | Ensures global accessibility to Quranic resources, preserving data integrity and resisting censorship. |
+| 🔍 **Censorship Resistance** | Stored on a distributed peer-to-peer network, Quranic materials remain accessible globally, immune to centralized control or localized content removal. |
+| 🌐 **Unrestricted Accessibility** | Overcoming geographical and linguistic barriers through an intuitive, mobile-friendly interface designed for a diverse global audience. |
+| 🛡️ **Absolute Data Integrity** | Utilizing immutable content-addressing (IPFS) to guarantee the authenticity of translations, interpretations, and audio recitations. |
 
 ---
 
 ## 🚀 Explore The Platform
 
 * 🌐 **Web3 IPFS Quran with NFT Domain (`Quran-Web3.NFT`):** Decentralized frontend hosted permanently across peer-to-peer nodes.
-* 📄 **605 Pages Quran NFTs:** Page-by-page digital preservation anchored on the blockchain.
-* 📜 **Complete Quran in Single NFT:** The entire sacred text encapsulated within a single, immutable smart contract.
+* 📄 **605 Pages Quran NFTs:** Page-by-page digital preservation anchored on the blockchain (personal project).
 
 ---
 
