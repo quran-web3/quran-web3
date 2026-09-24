@@ -10,7 +10,7 @@ The **Quran Web3 Project** represents a groundbreaking fusion of spiritual wisdo
 
 ---
 
-## 📜 Whitepaper Summary: The Quran Web3 Project
+## 📜 The Quran Web3 Project
 
 The Quran Web3 Project represents a groundbreaking fusion of spiritual wisdom and cutting-edge Web3 technology. Below is a high-level summary of our vision, challenges, and technological solutions:
 
