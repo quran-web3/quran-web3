@@ -39,12 +39,12 @@ The Quran Web3 Project represents a groundbreaking fusion of spiritual wisdom an
 ## 🚀 Explore The Platform
 
 * 🌐 **Web3 IPFS Quran with NFT Domain (`Quran-Web3.NFT`):** Decentralized frontend hosted permanently across peer-to-peer nodes.
-* 📄 **605 Pages Quran NFTs:** Page-by-page digital preservation anchored on the blockchain (personal project).
+* 📄 **605 Pages Quran NFTs:** Page-by-page digital preservation anchored on the blockchain (personal project History).
 
 ---
 
 ## 💡 Recommended Browsers
-For native Web3 domain resolution (`.nft`) and decentralized IPFS routing, we recommend using:
+For native Web3 domain resolution (`quran-web3.nft | quran-web3.crypto`) and decentralized IPFS routing, we recommend using:
 * 🦁 **Brave Browser**
 * 🔴 **Opera Browser**
 
@@ -54,7 +54,7 @@ For native Web3 domain resolution (`.nft`) and decentralized IPFS routing, we re
 
 ### 🎨 1. Modern Responsive UI & Visual Customization
 * **Fully Responsive Design:** Optimized for desktops, tablets, and mobile devices.
-* **Light & Dark Theme Toggle:** Switch between bright and dark (`lights-off`) reading modes for optimal comfort.
+* **Light & Dark Theme Toggle:** Switch between bright and dark reading modes for optimal comfort.
 
 ---
 
