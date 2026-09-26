@@ -1,6 +1,6 @@
 # 📖 Quran Web3 (Quran-Web3.NFT)
 
-The **Quran Web3 Project** represents a groundbreaking fusion of spiritual wisdom and cutting-edge technology. It seeks to revolutionize how individuals access and engage with the Quran by harnessing the power of the decentralized web (Web3) and IPFS. With a core mission to enhance transparency, accessibility, and collaboration within the Quranic community, this project is dedicated to preserving and disseminating the divine teachings to a global audience in a serverless ecosystem.
+The **Quran Web3 Project** represents a groundbreaking fusion of spiritual wisdom and cutting-edge technology. It seeks to revolutionize how individuals access and engage with the Quran by harnessing the power of the decentralized web (Web3) and IPFS. This project is dedicated to preserving and disseminating the divine teachings to a global audience in a serverless ecosystem.
 
 ---
 
