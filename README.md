@@ -39,7 +39,8 @@ The Quran Web3 Project represents a groundbreaking fusion of spiritual wisdom an
 ## 🚀 Explore The Platform
 
 * 🌐 **Web3 IPFS Quran with NFT Domain (`Quran-Web3.NFT`):** Decentralized frontend hosted permanently across peer-to-peer nodes.
-* 📄 **605 Pages Quran NFTs:** Page-by-page digital preservation anchored on the blockchain (personal project History - https://opensea.io/collection/quran-web3-nft).
+* 📄 **[605 Pages Quran Registry Archive](https://opensea.io/collection/quran-web3-nft):** A personal, non-commercial R&D project utilizing immutable on-chain tokens for page-by-page digital preservation, completely independent of commercial trading or financial asset speculation.
+
 
 ---
 
