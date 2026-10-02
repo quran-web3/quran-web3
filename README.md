@@ -92,7 +92,7 @@ For native Web3 domain resolution (`quran-web3.nft | quran-web3.crypto`) and dec
 
 ### 🔤 4. 3 Quranic Text Display Modes
 1. **Standard (Uthmanic Hafs):** Clean physical Mushaf text (*Quran.com*).
-2. **Tajweed (Indopak Naskh):** Color-coded rules with interactive tooltips (*Quran.com*).
+2. **Tajweed (Uthmanic Hafs):** Color-coded rules with interactive tooltips (*Quran.com*).
 3. **Word-by-Word (WBW):** Individual word breakdown with translations in 4 languages (*Quranwbw.com*) via (*Quran.com*).
 
 ---
