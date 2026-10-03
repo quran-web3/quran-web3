@@ -4,7 +4,7 @@ The **Quran Web3 Project** represents a groundbreaking fusion of spiritual wisdo
 
 ---
 
-[![Platform: Polygon](https://img.shields.io/badge/Blockchain-Polygon-8247E5?style=flat&logo=polygon&logoColor=white)](#-blockchain--technical-infrastructure)
+[![Platform: Polygon](https://img.shields.io/badge/Domain-Polygon-8247E5?style=flat&logo=polygon&logoColor=white)](#-blockchain--technical-infrastructure)
 [![Storage: IPFS](https://img.shields.io/badge/Storage-IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)](https://ipfs.tech/)
 [![Browser: Brave / Opera](https://img.shields.io/badge/Recommended_Browser-Brave_%7C_Opera-FF1B2D?style=flat)](#-recommended-browsers)
 
@@ -139,9 +139,9 @@ Verse-by-verse audio powered by *EveryAyah.com*:
 | Component | Technology / Source |
 | :--- | :--- |
 | **Frontend** | HTML5, Vanilla JavaScript (ES6+), W3.CSS |
-| **Blockchain Network** | Polygon |
+| **Domain Name Blockchain Network** | Polygon |
 | **Hosting & Protocol** | Web3 Static / IPFS |
-| **Arabic Text Source** | Quran.com API |
+| **Content Source** | Quran.com API |
 | **Word-by-Word Engine**| Quranwbw.com via Quran.com API |
 | **Audio Source** | EveryAyah.com |
 
