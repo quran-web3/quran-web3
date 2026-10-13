@@ -109,7 +109,6 @@ Supports authentic translations sourced from *Quran.com API* :
 ### 🎧 6. Audio Recitations (6 Renowned Qaris)
 Verse-by-verse audio powered by *EveryAyah.com*:
 * Sheikh Abdul Rahman Al-Sudais
-* Sheikh Abu Bakr Al-Shatri
 * Sheikh Fares Abbad
 * Sheikh Maher Al-Muaiqly
 * Sheikh Saad Al-Ghamdi
