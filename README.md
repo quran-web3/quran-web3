@@ -1,147 +1,135 @@
-# 📖 Quran Web3 (Quran-Web3.NFT)
+<div align="center">
 
-The **Quran Web3 Project** represents a groundbreaking fusion of spiritual wisdom and cutting-edge technology. It seeks to revolutionize how individuals access and engage with the Quran by harnessing the power of the decentralized web (Web3) and IPFS. This project is dedicated to preserving and disseminating the divine teachings to a global audience in a serverless ecosystem.
+<p>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
 
----
+# Quran Web3
 
-[![Platform: Polygon](https://img.shields.io/badge/Domain-Polygon-8247E5?style=flat&logo=polygon&logoColor=white)](#-blockchain--technical-infrastructure)
-[![Storage: IPFS](https://img.shields.io/badge/Storage-IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)](https://ipfs.tech/)
-[![Browser: Brave / Opera](https://img.shields.io/badge/Recommended_Browser-Brave_%7C_Opera-FF1B2D?style=flat)](#-recommended-browsers)
+### Read with clarity. Reflect with purpose. Learn at your own pace.
 
----
+**An independent Quran reading and learning project built for the modern web.**  
+Thoughtfully designed for multilingual access, personal reading continuity, and privacy-conscious use.
 
-## 📜 The Quran Web3 Project
+<p>
+  <img alt="Project status: active development" src="https://img.shields.io/badge/Status-Active%20Development-1f6f64?style=flat-square" />
+  <img alt="In development since 2023" src="https://img.shields.io/badge/Since-2023-425b76?style=flat-square" />
+  <img alt="12 interface languages" src="https://img.shields.io/badge/UI%20Languages-12-425b76?style=flat-square" />
+  <img alt="Built with vanilla JavaScript" src="https://img.shields.io/badge/Frontend-Vanilla%20JavaScript-425b76?style=flat-square" />
+</p>
 
-The Quran Web3 Project represents a groundbreaking fusion of spiritual wisdom and cutting-edge Web3 technology. Below is a high-level summary of our vision, challenges, and technological solutions:
+**[The Project](#the-project)** · **[Features](#the-experience)** · **[Architecture](#how-it-is-built)** · **[Languages](#languages)** · **[Project Journey](#the-journey)**
 
-### Mission & Vision
-*   The project seeks to revolutionize how individuals access and engage with the Quran by introducing decentralization, transparency, and user-centric design.
-*   It provides an inclusive, secure, and transparent platform that bridges the gap between tradition and innovation.
-*   The platform empowers scholars, researchers, and enthusiasts to unite in exploring the depths of Quranic knowledge.
-
-### Technology & Preservation
-*   **Decentralized Storage:** Quranic materials are distributed across a network of nodes, ensuring redundancy, data durability, and minimizing the risk of loss.
-*   **Data Security:** State-of-the-art encryption guarantees that user data and sacred resources are protected from unauthorized access.
-*   **Immutable Records:** The IPFS provides a tamper-proof record, ensuring the provenance and authenticity of translations and commentaries.
+</div>
 
 ---
 
-## 🌟 Core Pillars
+## The Project
 
-| Pillar | Description |
-| :--- | :--- |
-| 🔍 **Censorship Resistance** | Stored on a distributed peer-to-peer network, Quranic materials remain accessible globally, immune to centralized control or localized content removal. |
-| 🌐 **Unrestricted Accessibility** | Overcoming geographical and linguistic barriers through an intuitive, mobile-friendly interface designed for a diverse global audience. |
-| 🛡️ **Absolute Data Integrity** | Utilizing immutable content-addressing (IPFS) to guarantee the authenticity of translations, interpretations, and audio recitations. |
+Quran Web3 is a long-term, independently developed web application focused on making Quran reading, reflection, and introductory learning more accessible through a clear, responsive interface.
 
----
+The project brings together Quran reading tools, a structured reading routine, locally saved personal progress, and beginner-friendly learning features. It uses a static-web approach and explores IPFS as an additional way to distribute the application.
 
-## 🚀 Explore The Platform
+**The aim is to keep the experience useful and approachable—not to make technology the center of Quran study.**
 
-* 🌐 **Web3 IPFS Quran with NFT Domain (`Quran-Web3.NFT`):** Decentralized frontend hosted permanently across peer-to-peer nodes.
-  * **Decentralized P2P IPFS Fallback Storage Node** (alpha staging snapshot ~765 MB with minor bug): [IPFS LINK](https://bafybeifutyidgdkxy4ib22ol4tfmcbi7w66ixyngmxxw25dhyt4y5kah7i.ipfs.inbrowser.link/).
-  * **Fast Edge Gateway** (Full version free bug mirror demo **~4.6 GB localized dataset**): [Vercel Link](https://quranweb3.vercel.app/)
-* 📄 **[605 Pages Quran Registry Archive](https://opensea.io/collection/quran-web3-nft):** A personal, non-commercial R&D project utilizing immutable on-chain tokens for page-by-page digital preservation, completely independent of commercial trading or financial asset speculation.
+## The Experience
 
+| | Feature | What it offers |
+|:--:|---|---|
+| 📖 | **Quran Reader** | Read by **page** or **surah**, with verse-level navigation, translation, tafsir, and recitation tools. |
+| 🔤 | **Arabic Reading Options** | Standard Uthmani text, tajweed-colored display, and word-by-word exploration. |
+| 🌍 | **Multilingual Experience** | A user interface in **12 languages**, with multiple Quran translation choices. |
+| 🗓️ | **365-Day Khatm** | A structured reading plan with sequential bookmarks and progress that advances when a day is marked complete. |
+| 🔖 | **Personal Reading Tools** | Bookmarks, notes, recently read verses, continue reading, and JSON export/import for personal data. |
+| 🌿 | **Solace** | Explore Quran verses through eight reflection themes: Anxiety, Sadness, Patience, Gratitude, Anger, Hope, Peace, and Loneliness. |
+| ✨ | **Verse of the Day** | A daily verse on the home dashboard, with a direct path to read it in context. |
+| 📚 | **Learn to Read Arabic** | An original, six-level beginner-oriented module for recognizing and reading vocalized Arabic script, with practice and progress tracking. |
 
----
+> **Development note:** The features above describe the current application work and local testing. Content review, quality assurance, and preparation for a new public production release are ongoing. Some features may not be present on historical public demos.
 
-## 💡 Recommended Browsers
-For native Web3 domain resolution (`quran-web3.nft | quran-web3.crypto`) and decentralized IPFS routing, we recommend using:
-* 🦁 **Brave Browser**
-* 🔴 **Opera Browser**
+### A reading experience that respects your pace
 
----
+- **No mandatory account** for the core reading experience.
+- **Browser-based personal progress**, with user-controlled export and import.
+- **Responsive layouts** and reading preferences for different devices.
+- **Learning and reflection tools** designed to complement—not replace—qualified Quran and Arabic teachers.
 
-## ✨ Key Application Features
+## Languages
 
-### 🎨 1. Modern Responsive UI & Visual Customization
-* **Fully Responsive Design:** Optimized for desktops, tablets, and mobile devices.
-* **Light & Dark Theme Toggle:** Switch between bright and dark reading modes for optimal comfort.
+The interface is designed around an English master and localized into the following 12 languages:
 
----
+| | | |
+|---|---|---|
+| English (`en`) | Indonesian (`id`) | French (`fr`) |
+| Spanish (`es`) | Russian (`ru`) | Portuguese (`pt`) |
+| German (`de`) | Chinese (`zh`) | Japanese (`ja`) |
+| Korean (`ko`) | Hindi (`hi`) | Bengali (`bn`) |
 
-### 📖 2. Dual Viewing Modes & Verse Controls
-* **Page-by-Page View (Per Page):** Authentic page-style layout with interactive verse options:
-  * 🔊 **Play:** Verse-by-verse recitation audio.
-  * 📚 **Tafsir:** Access verse explanations.
-  * 🔖 **Bookmark:** Instant progress marking.
-  * 🔗 **Share & Copy:** Quick copy of Arabic/translation text and links.
-  * 📝 **Personal Notes:** Add custom study notes to any verse.
-* **Surah View (Per Surah):** Continuous chapter reading with an integrated **Verse Repeater** modal for memorization (*Hifz*).
+Interface language support is distinct from the availability of particular Quran translations, reciters, or learning content.
 
+## How It Is Built
+
+Quran Web3 favors maintainable, static-web technologies and a separation between content preparation and the app itself.
+
+| Layer | Approach |
+|---|---|
+| **Frontend** | HTML, CSS, and vanilla JavaScript |
+| **Content preparation** | Python-based data pipeline producing static content assets |
+| **Application data** | Structured JSON and related static resources |
+| **Personal preferences and progress** | Browser storage, with optional JSON backup and restore |
+| **Planned landing and articles** | Cloudflare Pages |
+| **Planned application delivery** | 4EVERLAND and IPFS, with HTTPS access through `app.quranweb3.org` |
+| **Optional Web3 entry point** | `quranweb3.unstoppable` |
+
+```text
+                    QURAN WEB3
+                         │
+          ┌──────────────┴──────────────┐
+          │                             │
+  Landing & multilingual blog       Quran web app
+       quranweb3.org             app.quranweb3.org
+      (Cloudflare Pages)          (Static / IPFS)
+          │                             │
+    Help people discover         Read • Reflect • Learn
+        the project                 Continue reading
+                                        │
+                              Browser-saved preferences
+                                  & personal progress
 ```
-+-------------------------------------------------------------+
-|                      VERSE REPEATER                         |
-+-------------------------------------------------------------+
-| [Start Verse: 1]  --->  [End Verse: 7]                      |
-| [Repeat Count: 3]                                           |
-|                                                             |
-|   [ ▶ Start Repeat ]                  [ ❚❚ Pause Repeat ]   |
-+-------------------------------------------------------------+
-```
+
+*The domains and delivery services shown here describe the intended production architecture, not a claim that every endpoint is already live.*
+
+## The Journey
+
+**Started in 2023. Evolving with every iteration.**
+
+Quran Web3 began as an exploration of decentralized publishing, Web3 domains, and IPFS. Over time, the focus expanded toward the everyday experience of reading the Quran: accessible page and surah views, multilingual navigation, recitations, study tools, personal reading continuity, a 365-day Khatm plan, Solace, and original Arabic-reading lessons.
+
+Early experiments—including historical Web3 and NFT-related concepts—are part of the project's development history. They do not define the current application's primary purpose.
+
+### Current focus
+
+- Refine Quran content presentation, references, and reading experience.
+- Test the reader, Khatm, Solace, and Learn modules across devices and languages.
+- Complete release preparation for the static application and multilingual project website.
+
+## Project Presence
+
+- **[GitHub profile](https://github.com/quran-web3)** — project development presence and repository history.
+- **[LinkedIn](https://www.linkedin.com/in/quran-web3/)** — project updates and development journey.
+- **[Historical project website](https://quran-web3.github.io/)** — earlier landing-page content; a new multilingual website is being prepared.
+
+> The previous experimental deployments are not presented here as the current production application.
+
+## Acknowledgements
+
+Quran Web3 benefits from the work of Quran publishers, translators, scholars, reciters, data contributors, and developers who make Quran resources accessible. The project acknowledges their contributions in its application documentation. Third-party Quran texts, translations, tafsir, and recordings remain associated with their respective sources and rights holders.
 
 ---
 
-### 🗓️ 3. "Quran in a Year" Reading Program
-* **365-Day Completion Plan:** 604 pages systematically divided (1–2 pages/day) using a custom Python script powered by the Quran.com API.
-* **Daily Target Card:** Live widget displaying current day, Hijri date, target pages, and exact starting/ending verses.
-* **Completion & Reset System:** Celebratory screen on Day 365 with optional reset confirmation.
+<div align="center">
 
----
+**Quran Web3**  
+*An independent project. Built with care. Developed since 2023.*
 
-### 🔤 4. 3 Quranic Text Display Modes
-1. **Standard (Uthmanic Hafs):** Clean physical Mushaf text (*Quran.com*).
-2. **Tajweed (Uthmanic Hafs):** Color-coded rules with interactive tooltips (*Quran.com*).
-3. **Word-by-Word (WBW):** Individual word breakdown with translations in 4 languages (*Quranwbw.com*) via (*Quran.com*).
+**Read · Reflect · Learn · Continue**
 
----
-
-### 🌍 5. Multi-Language Translations (12 Languages)
-Supports authentic translations sourced from *Quran.com API* :
-* 🇬🇧 **English** | 🇨🇳 **Chinese** | 🇮🇳 **Hindi**
-* 🇪🇸 **Spanish** | 🇫🇷 **French** | 🇵🇹 **Portuguese**
-* 🇩🇪 **German** | 🇯🇵 **Japanese** | 🇮🇩 **Indonesian** 
-* 🇧🇩 **Bengali** | 🇷🇺 **Russian** | 🇰🇷 **Korean**
-
----
-
-### 🎧 6. Audio Recitations (6 Renowned Qaris)
-Verse-by-verse audio powered by *EveryAyah.com*:
-* Sheikh Abdul Rahman Al-Sudais
-* Sheikh Fares Abbad
-* Sheikh Maher Al-Muaiqly
-* Sheikh Saad Al-Ghamdi
-* Sheikh Saud Al-Shuraim
-
----
-
-### 🏠 7. Home Dashboard & Quick Navigation
-* **Continue Reading Card:** Instant resumption of your last session.
-* **Verse of the Day Card:** Daily inspirational verse module.
-* **Multi-Tab Navigation:** Fast switching between **Surah**, **Verse**, **Juz**, and **Page**.
-* **Static Search Bar:** Client-side search engine across chapters and verses.
-
----
-
-### 💾 8. Decentralized Data Center
-* **No Account Required:** Client-side architecture with zero tracking or central databases.
-* **Local Storage Persistence:** All progress, notes, and preferences remain local.
-* **Data Portability:**
-  * 📥 **Export Data (Backup):** Download your entire state as a `.json` file.
-  * 📤 **Import Data (Restore):** Seamlessly restore your reading state on any new device.
-
----
-
-## 🛠️ Tech Stack
-
-| Component | Technology / Source |
-| :--- | :--- |
-| **Frontend** | HTML5, Vanilla JavaScript (ES6+), W3.CSS |
-| **Domain Name Blockchain Network** | Polygon |
-| **Hosting & Protocol** | Web3 Static / IPFS |
-| **Content Source** | Quran.com API |
-| **Word-by-Word Engine**| Quranwbw.com via Quran.com API |
-| **Audio Source** | EveryAyah.com |
-
----
+</div>
